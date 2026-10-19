@@ -23,5 +23,5 @@ hi this is my portfolio website testing.
 
 ## contact me
 * **gitHub:** [@phuntsokkarma](https://github.com/phuntsokkarma)
-* **linkedin:** [karma phuntsok](https://linkedin.com/karmaphuntsok)
+* **linkedin:** [karma phuntsok](www.linkedin.com/in/karmaphuntsok/)
 * **email:** karmap@umich.edu
