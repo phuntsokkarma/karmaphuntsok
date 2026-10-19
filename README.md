@@ -1,7 +1,7 @@
 ## karma phuntsok
 
 ## about me
-hi this is my portfolio website testing.
+hi this is my portfolio website testing...!!!
 
 ---
 
@@ -22,6 +22,5 @@ hi this is my portfolio website testing.
 ---
 
 ## contact me
-* **gitHub:** [@phuntsokkarma](https://github.com/phuntsokkarma)
 * **linkedin:** [karma phuntsok](www.linkedin.com/in/karmaphuntsok/)
 * **email:** karmap@umich.edu
