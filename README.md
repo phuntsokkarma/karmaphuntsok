@@ -1,4 +1,6 @@
-## About Me
+## karma phuntsok
+
+## about me
 hi this is my portfolio website testing.
 
 ---
